@@ -1,6 +1,6 @@
 # Advanced-Multilingual-Translation-platform-with-enhanced-file-and-speech-Processing
 Domain/Area under Artificial Intelligence and Natural Language Processing
-This Python script is a Real-Time Voice and Text Translation Application that combines speech recognition, text-to-speech, language translation, and language detection functionalities. It is built using the tkinter library for the GUI and relies on third-party modules like SpeechRecognition, googletrans, gTTS, playsound, and langdetect.
+This Python script is a Advanced-Multilingual-Translation-platform-with-enhanced-file-and-speech-Processing that combines speech recognition, text-to-speech, language translation, and language detection functionalities. It is built using the tkinter library for the GUI and relies on third-party modules like SpeechRecognition, googletrans, gTTS, playsound, and langdetect.
 
 The application allows users to:
 
